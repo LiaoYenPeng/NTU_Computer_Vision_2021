@@ -24,6 +24,6 @@ This homework includes two parts.
 ## HW2:Basic Image Manipulation
 
 * Write a program to generate:
-* (a) a binary image (threshold at 128)
-* (b) a histogram
-* (c) connected components (regions with + at centroid, bounding box)
+ * (a) a binary image (threshold at 128)
+ * (b) a histogram
+ * (c) connected components (regions with + at centroid, bounding box)

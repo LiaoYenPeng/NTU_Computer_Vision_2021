@@ -27,3 +27,10 @@ This homework includes two parts.
   * (a) a binary image (threshold at 128) (0-127,128-255)
   * (b) a histogram
   * (c) connected components (regions with + at centroid, bounding box)
+
+## HW3:Histogram Equalization
+
+* Write a program to generate images and histograms:
+  * (a) original image and its histogram
+  * (b) image with intensity divided by 3 and its histogram
+  * (c) image after applying histogram equalization to (b) and its histogram
